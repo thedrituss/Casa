@@ -49,5 +49,5 @@ class EstudianteProfeTEST:
         profesor1.SetSubject('Matematicas')
         profesor1.Explain()
         
-EstudianteProfeTEST.Main()
+EstudianteProfeTEST.Main(
         
