@@ -50,6 +50,4 @@ class EstudianteProfeTEST:
         profesor1.Explain()
         
 EstudianteProfeTEST.Main()
-
-#cambio para premain
         
